@@ -140,6 +140,10 @@ ul li {
     
 }
 
+.chat-icono:hover{
+    cursor: pointer;
+}
+
 .chat .maria{
     border-radius: 50%;
     width: 40px;
@@ -193,4 +197,8 @@ ul li {
     font-family: var(--fuenteroboto);
     font-size: var(--mediana);
     padding: 15px 45px;
+}
+
+.boton:hover{
+    cursor: pointer;
 }
